@@ -1,6 +1,5 @@
 import { useState } from "react"
-import MessageSent from "./MessageSent"
-
+/* comentario */
 const Form = () => {
 
   const [general, setGeneral] = useState(false)
